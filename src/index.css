@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+body {
+  @apply bg-darkblue-900 text-white;
+}
+
+.mysql-color{
+  fill: #007bff;
+}
+
+.overflow-visible{
+  overflow: visible;
+}
