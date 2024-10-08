@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ketham_portfolio/static/css/main.90a56efe.css",
+    "main.js": "/ketham_portfolio/static/js/main.8b69cd29.js",
+    "static/media/sliceofspice.png": "/ketham_portfolio/static/media/sliceofspice.eda4ab06fa766621b860.png",
+    "static/media/resort.png": "/ketham_portfolio/static/media/resort.4cd015d8465690b81457.png",
+    "static/media/flipkart.png": "/ketham_portfolio/static/media/flipkart.dbfd94b8906096c36533.png",
+    "static/media/web.png": "/ketham_portfolio/static/media/web.ed2578a4ccbcda9eebe7.png",
+    "static/media/res2.jpg": "/ketham_portfolio/static/media/res2.e36a61765119baf1ebac.jpg",
+    "static/media/java.png": "/ketham_portfolio/static/media/java.ddf8676bd569fe01ab44.png",
+    "static/media/nodejs.png": "/ketham_portfolio/static/media/nodejs.7c9a06311e80d381d768.png",
+    "index.html": "/ketham_portfolio/index.html",
+    "main.90a56efe.css.map": "/ketham_portfolio/static/css/main.90a56efe.css.map",
+    "main.8b69cd29.js.map": "/ketham_portfolio/static/js/main.8b69cd29.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90a56efe.css",
+    "static/js/main.8b69cd29.js"
+  ]
+}
